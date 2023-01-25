@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Almaz Musagitov</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 📫 How to reach me **https://t.me/Taer23 or almazius11@gmail.com**
+📫 How to reach me **https://t.me/Taer23 or almazius11@gmail.com**
 
 <p align="left">
 </p>
