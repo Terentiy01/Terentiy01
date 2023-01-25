@@ -6,6 +6,6 @@
 
 <h4 align="center">📫 Связаться со мной: https://t.me/Taer23 or almazius11@gmail.com</h4>
 
-<p><img align="left" width="483" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&show_icons=true&locale=en" alt="terentiy01" /></p>
+<p><img align="left" width="473" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&show_icons=true&locale=en" alt="terentiy01" /></p>
 
-<p><img align="center" width="380" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&locale=en&layout=compact" alt="terentiy01" /></p>
+<p><img align="center" width="370" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&locale=en&layout=compact" alt="terentiy01" /></p>
