@@ -8,4 +8,4 @@
 
 <p><img align="left" width="443" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&show_icons=true&locale=en" alt="terentiy01" /></p>
 
-<p>&nbsp;<img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&locale=en&layout=compact" alt="terentiy01" /></p>
+<p><img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&locale=en&layout=compact" alt="terentiy01" /></p>
