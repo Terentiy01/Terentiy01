@@ -12,6 +12,6 @@
 <!-- </a> -->
 
 <!-- <a href="https://github.com/terentiy01/github-readme-stats"> -->
-<p><img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,&locale=ru" alt="terentiy01" /></p>
+<p><img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python&locale=ru" alt="terentiy01" /></p>
 <!-- </a>
 </div> -->
