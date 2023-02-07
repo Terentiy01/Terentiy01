@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="mailto:almazius11@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%da3738.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://t.me/taer23" target="_blank">
