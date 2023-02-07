@@ -17,7 +17,9 @@
 </div> 
 
 <div align="center">
-<p><img align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&hide=prs,issues,contribs&theme=tokyonight&show_icons=true&locale=ru" alt="terentiy01" /></p>
+<img align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&hide=prs,issues,contribs&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&locale=ru" alt="terentiy01" />
 
-<p><img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html,css&locale=ru" alt="terentiy01" /></p>
-</div>
+<!-- <img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html,css&locale=ru" alt="terentiy01" />
+</div> -->
+
+<img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=terentiy01&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html&locale=ru" alt="terentiy01" />
