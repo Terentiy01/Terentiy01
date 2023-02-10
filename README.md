@@ -16,6 +16,8 @@
 </a>
 </div> 
 
+</br>
+
 <div align="center">
 <img align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=terentiy01&hide=prs,issues,contribs&theme=tokyonight&show_icons=true&count_private=true&locale=ru" alt="terentiy01" />
 
